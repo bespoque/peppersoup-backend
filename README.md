@@ -1,1 +1,1 @@
-# peppersoup-mobile-backend
+# peppersoup-backend
